@@ -188,9 +188,9 @@
   irs_reportable: 'Yes'
   id: 25
 - mcc: '3012'
-  edited_description: QUANTAS
-  combined_description: QUANTAS
-  usda_description: QUANTAS
+  edited_description: QANTAS
+  combined_description: QANTAS
+  usda_description: QANTAS
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 26
@@ -5796,9 +5796,9 @@
   irs_reportable: No1.6041-3(c)
   id: 824
 - mcc: '5948'
-  edited_description: Leather Foods Stores
-  combined_description: Leather Foods Stores
-  usda_description: Leather Foods Stores
+  edited_description: Leather Goods Stores
+  combined_description: Leather Goods Stores
+  usda_description: Leather Goods Stores
   irs_description: Luggage and Leather Goods Stores
   irs_reportable: No1.6041-3(c)
   id: 825
