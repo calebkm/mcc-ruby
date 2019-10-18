@@ -10,6 +10,6 @@ class Mcc
   end
 
   def self.where(_attr)
-    all.find { |a| a[_attr.keys.first.to_s] == _attr.values.first }
+    all.find { |a| a[_attr.keys.first.to_s] == _attr.values.first.to_s }
   end
 end
