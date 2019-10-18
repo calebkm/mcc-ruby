@@ -104,23 +104,23 @@
   irs_reportable: 'Yes'
   id: 13
 - mcc: '3000'
-  edited_description: UNITED AIRLINES
-  combined_description: UNITED AIRLINES
-  usda_description: UNITED AIRLINES
+  edited_description: United Airlines
+  combined_description: United Airlines
+  usda_description: United Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 14
 - mcc: '3001'
-  edited_description: AMERICAN AIRLINES
-  combined_description: AMERICAN AIRLINES
-  usda_description: AMERICAN AIRLINES
+  edited_description: American Airlines
+  combined_description: American Airlines
+  usda_description: American Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 15
 - mcc: '3002'
-  edited_description: PAN AMERICAN
-  combined_description: PAN AMERICAN
-  usda_description: PAN AMERICAN
+  edited_description: Pan American
+  combined_description: Pan American
+  usda_description: Pan American
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 16
@@ -132,86 +132,86 @@
   irs_reportable: 'Yes'
   id: 17
 - mcc: '3004'
-  edited_description: TRANS WORLD AIRLINES
-  combined_description: TRANS WORLD AIRLINES
-  usda_description: TRANS WORLD AIRLINES
+  edited_description: Trans World Airlines
+  combined_description: Trans World Airlines
+  usda_description: Trans World Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 18
 - mcc: '3005'
-  edited_description: BRITISH AIRWAYS
-  combined_description: BRITISH AIRWAYS
-  usda_description: BRITISH AIRWAYS
+  edited_description: British Airways
+  combined_description: British Airways
+  usda_description: British Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 19
 - mcc: '3006'
-  edited_description: JAPAN AIRLINES
-  combined_description: JAPAN AIRLINES
-  usda_description: JAPAN AIRLINES
+  edited_description: Japan Airlines
+  combined_description: Japan Airlines
+  usda_description: Japan Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 20
 - mcc: '3007'
-  edited_description: AIR FRANCE
-  combined_description: AIR FRANCE
-  usda_description: AIR FRANCE
+  edited_description: Air France
+  combined_description: Air France
+  usda_description: Air France
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 21
 - mcc: '3008'
-  edited_description: LUFTHANSA
-  combined_description: LUFTHANSA
-  usda_description: LUFTHANSA
+  edited_description: Lufthansa
+  combined_description: Lufthansa
+  usda_description: Lufthansa
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 22
 - mcc: '3009'
-  edited_description: AIR CANADA
-  combined_description: AIR CANADA
-  usda_description: AIR CANADA
+  edited_description: Air Canada
+  combined_description: Air Canada
+  usda_description: Air Canada
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 23
 - mcc: '3010'
-  edited_description: KLM (ROYAL DUTCH AIRLINES)
-  combined_description: KLM (ROYAL DUTCH AIRLINES)
-  usda_description: KLM (ROYAL DUTCH AIRLINES)
+  edited_description: KLM (Royal Dutch Airlines)
+  combined_description: KLM (Royal Dutch Airlines)
+  usda_description: KLM (Royal Dutch Airlines)
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 24
 - mcc: '3011'
-  edited_description: AEORFLOT
-  combined_description: AEORFLOT
-  usda_description: AEORFLOT
+  edited_description: Aeorflot
+  combined_description: Aeorflot
+  usda_description: Aeorflot
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 25
 - mcc: '3012'
-  edited_description: QANTAS
-  combined_description: QANTAS
-  usda_description: QANTAS
+  edited_description: Qantas
+  combined_description: Qantas
+  usda_description: Qantas
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 26
 - mcc: '3013'
-  edited_description: ALITALIA
-  combined_description: ALITALIA
-  usda_description: ALITALIA
+  edited_description: Alitalia
+  combined_description: Alitalia
+  usda_description: Alitalia
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 27
 - mcc: '3014'
-  edited_description: SAUDIA ARABIAN AIRLINES
-  combined_description: SAUDIA ARABIAN AIRLINES
-  usda_description: SAUDIA ARABIAN AIRLINES
+  edited_description: Saudia Arabian Airlines
+  combined_description: Saudia Arabian Airlines
+  usda_description: Saudia Arabian Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 28
 - mcc: '3015'
-  edited_description: SWISSAIR
-  combined_description: SWISSAIR
-  usda_description: SWISSAIR
+  edited_description: Swissair
+  combined_description: Swissair
+  usda_description: Swissair
   irs_description: Airlines
   irs_reportable: 'Yes'
   id: 29
