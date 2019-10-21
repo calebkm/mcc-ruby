@@ -1,5 +1,5 @@
 # Merchant Category Codes (MCC) for Ruby
-The `mcc-ruby` gem provides a super simple interface for accessing [Merchant Category Codes](https://en.wikipedia.org/wiki/Merchant_category_code).
+The `mcc-ruby` gem provides a super simple interface for accessing [Merchant Category Codes](https://en.wikipedia.org/wiki/Merchant_category_code) in your Ruby app.
 
 ### Installation
 Add the gem the standard Gemfile way:
@@ -10,26 +10,25 @@ gem 'mcc-ruby'
 ```
 
 ### Usage
-You can find the details for a specific code directly using:
+Return the details for a single code using:
 
 ```ruby
-Mcc.code('5713')
-=> {"mcc"=>"5713", "edited_description"=>"Floor Covering Stores", "combined_description"=>"Floor Covering Stores", "usda_description"=>"Floor Covering Stores", "irs_description"=>"Floor Covering Stores", "irs_reportable"=>"No1.6041-3(c)", "id"=>792}
+MCC.code('5713')
+=> #<MCC::Code:0x00007fbe0ca84568 @mcc="5713", @edited_description="Floor Covering Stores", @combined_description="Floor Covering Stores", @usda_description="Floor Covering Stores", @irs_description="Floor Covering Stores", @irs_reportable="No1.6041-3(c)">
 ```
 
-Or you can search by a specific attribute:
+Or return an array of results with an attribute:
 
 ```ruby
-Mcc.where(usda_description: 'Fast Food Restaurants')
-=> {"mcc"=>"5814", "edited_description"=>"Fast Food Restaurants", "combined_description"=>"Fast Food Restaurants", "usda_description"=>"Fast Food Restaurants", "irs_description"=>"Fast Food Restaurants", "irs_reportable"=>"No1.6041-3(c)", "id"=>804}
+MCC.where(usda_description: 'Fast Food Restaurants')
+=> [#<MCC::Code:0x00007fbe0c98cca0 @mcc="5814", @edited_description="Fast Food Restaurants", @combined_description="Fast Food Restaurants", @usda_description="Fast Food Restaurants", @irs_description="Fast Food Restaurants", @irs_reportable="No1.6041-3(c)">]
 ```
-Note that both `code` and `where` return a **single result**. Searching by an attribute that is non-unique will return the first result only.
 
-You can also access all MCC's using:
+You can also access all codes using:
 
 ```ruby
-Mcc.all
-=> [{"mcc"=>"0742", "edited_description"=>"Veterinary Services", "combined_description"=>"Veterinary Services", "usda_description"=>"Veterinary Services", "irs_description"=>"Veterinary Services", "irs_reportable"=>"Yes", "id"=>0}, {"mcc"=>"0763", ...]
+MCC.all
+=> [#<MCC::Code:0x00007fbe0c1d3f40 @mcc="0742", @edited_description="Veterinary Services", @combined_description="Veterinary Services", @usda_description="Veterinary Services", @irs_description="Veterinary Services", @irs_reportable="Yes">, #<MCC::Code:0x00007fbe0c1d3d10 @mcc="0763", ...]
 ```
 
 ### Acknowledgements
