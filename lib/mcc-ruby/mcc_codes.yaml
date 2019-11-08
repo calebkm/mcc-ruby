@@ -306,9 +306,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3036'
-  edited_description: VASP (Brazil)
-  combined_description: VASP (Brazil)
-  usda_description: VASP (Brazil)
+  edited_description: VASP Airline
+  combined_description: VASP Airline
+  usda_description: VASP Airline
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3037'
@@ -336,111 +336,111 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3041'
-  edited_description: BALKAN-BULGARIAN AIRLINES
-  combined_description: BALKAN-BULGARIAN AIRLINES
-  usda_description: BALKAN-BULGARIAN AIRLINES
+  edited_description: Balkan Bulgarian Airlines
+  combined_description: Balkan Bulgarian Airlines
+  usda_description: Balkan Bulgarian Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3042'
-  edited_description: FINNAIR
-  combined_description: FINNAIR
-  usda_description: FINNAIR
+  edited_description: Finnair
+  combined_description: Finnair
+  usda_description: Finnair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3043'
-  edited_description: AER LINGUS
-  combined_description: AER LINGUS
-  usda_description: AER LINGUS
+  edited_description: Aer Lingus
+  combined_description: Aer Lingus
+  usda_description: Aer Lingus
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3044'
-  edited_description: AIR LANKA
-  combined_description: AIR LANKA
-  usda_description: AIR LANKA
+  edited_description: Air Lanka
+  combined_description: Air Lanka
+  usda_description: Air Lanka
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3045'
-  edited_description: NIGERIA AIRWAYS
-  combined_description: NIGERIA AIRWAYS
-  usda_description: NIGERIA AIRWAYS
+  edited_description: Nigeria Airways
+  combined_description: Nigeria Airways
+  usda_description: Nigeria Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3046'
-  edited_description: CRUZEIRO DO SUL (BRAZIJ)
-  combined_description: CRUZEIRO DO SUL (BRAZIJ)
-  usda_description: CRUZEIRO DO SUL (BRAZIJ)
+  edited_description: Servicos Aereos Cruzeiro do Sul
+  combined_description: Servicos Aereos Cruzeiro do Sul
+  usda_description: Servicos Aereos Cruzeiro do Sul
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3047'
-  edited_description: THY (TURKEY)
-  combined_description: THY (TURKEY)
-  usda_description: THY (TURKEY)
+  edited_description: Turkish Airlines
+  combined_description: Turkish Airlines
+  usda_description: Turkish Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3048'
-  edited_description: ROYAL AIR MAROC
-  combined_description: ROYAL AIR MAROC
-  usda_description: ROYAL AIR MAROC
+  edited_description: Royal Air Maroc
+  combined_description: Royal Air Maroc
+  usda_description: Royal Air Maroc
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3049'
-  edited_description: TUNIS AIR
-  combined_description: TUNIS AIR
-  usda_description: TUNIS AIR
+  edited_description: Tunisair
+  combined_description: Tunisair
+  usda_description: Tunisair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3050'
-  edited_description: ICELANDAIR
-  combined_description: ICELANDAIR
-  usda_description: ICELANDAIR
+  edited_description: Icelandair
+  combined_description: Icelandair
+  usda_description: Icelandair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3051'
-  edited_description: AUSTRIAN AIRLINES
-  combined_description: AUSTRIAN AIRLINES
-  usda_description: AUSTRIAN AIRLINES
+  edited_description: Austrian Airlines
+  combined_description: Austrian Airlines
+  usda_description: Austrian Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3052'
-  edited_description: LANCHILE
-  combined_description: LANCHILE
-  usda_description: LANCHILE
+  edited_description: LAN Chile
+  combined_description: LAN Chile
+  usda_description: LAN Chile
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3053'
-  edited_description: AVIACO (SPAIN)
-  combined_description: AVIACO (SPAIN)
-  usda_description: AVIACO (SPAIN)
+  edited_description: Aviaco
+  combined_description: Aviaco
+  usda_description: Aviaco
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3054'
-  edited_description: LADECO (CHILE)
-  combined_description: LADECO (CHILE)
-  usda_description: LADECO (CHILE)
+  edited_description: Ladeco
+  combined_description: Ladeco
+  usda_description: Ladeco
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3055'
-  edited_description: LAB (BOLIVIA)
-  combined_description: LAB (BOLIVIA)
-  usda_description: LAB (BOLIVIA)
+  edited_description: Lloyd Aereo Boliviano
+  combined_description: Lloyd Aereo Boliviano
+  usda_description: Lloyd Aereo Boliviano
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3056'
-  edited_description: QUEBECAIRE
-  combined_description: QUEBECAIRE
-  usda_description: QUEBECAIRE
+  edited_description: Quebecair
+  combined_description: Quebecair
+  usda_description: Quebecair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3057'
-  edited_description: EASTWEST AIRLINES (AUSTRALIA)
-  combined_description: EASTWEST AIRLINES (AUSTRALIA)
-  usda_description: EASTWEST AIRLINES (AUSTRALIA)
+  edited_description: East-West Airlines
+  combined_description: East-West Airlines
+  usda_description: East-West Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3058'
-  edited_description: DELTA
-  combined_description: DELTA
-  usda_description: DELTA
+  edited_description: Delta Airlines
+  combined_description: Delta Airlines
+  usda_description: Delta Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3059'
@@ -450,27 +450,27 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3060'
-  edited_description: NORTHWEST
-  combined_description: NORTHWEST
-  usda_description: NORTHWEST
+  edited_description: Northwest Airlines
+  combined_description: Northwest Airlines
+  usda_description: Northwest Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3061'
-  edited_description: CONTINENTAL
-  combined_description: CONTINENTAL
-  usda_description: CONTINENTAL
+  edited_description: Continental Airlines
+  combined_description: Continental Airlines
+  usda_description: Continental Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3062'
-  edited_description: WESTERN
-  combined_description: WESTERN
-  usda_description: WESTERN
+  edited_description: Western Airlines
+  combined_description: Western Airlines
+  usda_description: Western Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3063'
-  edited_description: US AIR
-  combined_description: US AIR
-  usda_description: US AIR
+  edited_description: US Air
+  combined_description: US Air
+  usda_description: US Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3064'
@@ -480,15 +480,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3065'
-  edited_description: AIRINTER
-  combined_description: AIRINTER
-  usda_description: AIRINTER
+  edited_description: Air Inter
+  combined_description: Air Inter
+  usda_description: Air Inter
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3066'
-  edited_description: SOUTHWEST
-  combined_description: SOUTHWEST
-  usda_description: SOUTHWEST
+  edited_description: Southwest Airlines
+  combined_description: Southwest Airlines
+  usda_description: Southwest Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3067'
@@ -504,9 +504,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3069'
-  edited_description: SUN COUNTRY AIRLINES
-  combined_description: SUN COUNTRY AIRLINES
-  usda_description: SUN COUNTRY AIRLINES
+  edited_description: Sun Country Airlines
+  combined_description: Sun Country Airlines
+  usda_description: Sun Country Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3070'
@@ -516,9 +516,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3071'
-  edited_description: AIR BRITISH COLUBIA
-  combined_description: AIR BRITISH COLUBIA
-  usda_description: AIR BRITISH COLUBIA
+  edited_description: Air BC
+  combined_description: Air BC
+  usda_description: Air BC
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3072'
@@ -540,27 +540,27 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3075'
-  edited_description: SINGAPORE AIRLINES
-  combined_description: SINGAPORE AIRLINES
-  usda_description: SINGAPORE AIRLINES
+  edited_description: Singapore Airlines
+  combined_description: Singapore Airlines
+  usda_description: Singapore Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3076'
-  edited_description: AEROMEXICO
-  combined_description: AEROMEXICO
-  usda_description: AEROMEXICO
+  edited_description: Aeromexico
+  combined_description: Aeromexico
+  usda_description: Aeromexico
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3077'
-  edited_description: THAI AIRWAYS
-  combined_description: THAI AIRWAYS
-  usda_description: THAI AIRWAYS
+  edited_description: Thai Airways
+  combined_description: Thai Airways
+  usda_description: Thai Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3078'
-  edited_description: CHINA AIRLINES
-  combined_description: CHINA AIRLINES
-  usda_description: CHINA AIRLINES
+  edited_description: China Airlines
+  combined_description: China Airlines
+  usda_description: China Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3079'
@@ -576,33 +576,33 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3081'
-  edited_description: NORDAIR
-  combined_description: NORDAIR
-  usda_description: NORDAIR
+  edited_description: Nordair
+  combined_description: Nordair
+  usda_description: Nordair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3082'
-  edited_description: KOREAN AIRLINES
-  combined_description: KOREAN AIRLINES
-  usda_description: KOREAN AIRLINES
+  edited_description: Korean Air
+  combined_description: Korean Air
+  usda_description: Korean Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3083'
-  edited_description: AIR AFRIGUE
-  combined_description: AIR AFRIGUE
-  usda_description: AIR AFRIGUE
+  edited_description: Air Afrique
+  combined_description: Air Afrique
+  usda_description: Air Afrique
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3084'
-  edited_description: EVA AIRLINES
-  combined_description: EVA AIRLINES
-  usda_description: EVA AIRLINES
+  edited_description: EVA Air
+  combined_description: EVA Air
+  usda_description: EVA Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3085'
-  edited_description: MIDWEST EXPRESS AIRLINES, INC.
-  combined_description: MIDWEST EXPRESS AIRLINES, INC.
-  usda_description: MIDWEST EXPRESS AIRLINES, INC.
+  edited_description: Midwest Express Airlines
+  combined_description: Midwest Express Airlines
+  usda_description: Midwest Express Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3086'
@@ -612,21 +612,21 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3087'
-  edited_description: METRO AIRLINES
-  combined_description: METRO AIRLINES
-  usda_description: METRO AIRLINES
+  edited_description: Metro Airlines
+  combined_description: Metro Airlines
+  usda_description: Metro Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3088'
-  edited_description: CROATIA AIRLINES
-  combined_description: CROATIA AIRLINES
-  usda_description: CROATIA AIRLINES
+  edited_description: Croatia Airlines
+  combined_description: Croatia Airlines
+  usda_description: Croatia Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3089'
-  edited_description: TRANSAERO
-  combined_description: TRANSAERO
-  usda_description: TRANSAERO
+  edited_description: Transaero
+  combined_description: Transaero
+  usda_description: Transaero
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3090'
@@ -654,9 +654,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3094'
-  edited_description: ZAMBIA AIRWAYS
-  combined_description: ZAMBIA AIRWAYS
-  usda_description: ZAMBIA AIRWAYS
+  edited_description: Zambia Airways
+  combined_description: Zambia Airways
+  usda_description: Zambia Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3095'
@@ -666,9 +666,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3096'
-  edited_description: AIR ZIMBABWE
-  combined_description: AIR ZIMBABWE
-  usda_description: AIR ZIMBABWE
+  edited_description: Air Zimbabwe
+  combined_description: Air Zimbabwe
+  usda_description: Air Zimbabwe
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3097'
@@ -684,15 +684,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3099'
-  edited_description: CATHAY PACIFIC
-  combined_description: CATHAY PACIFIC
-  usda_description: CATHAY PACIFIC
+  edited_description: Cathay Pacific
+  combined_description: Cathay Pacific
+  usda_description: Cathay Pacific
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3100'
-  edited_description: MALAYSIAN AIRLINE SYSTEM
-  combined_description: MALAYSIAN AIRLINE SYSTEM
-  usda_description: MALAYSIAN AIRLINE SYSTEM
+  edited_description: Malaysian Airline System
+  combined_description: Malaysian Airline System
+  usda_description: Malaysian Airline System
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3101'
@@ -702,15 +702,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3102'
-  edited_description: IBERIA
-  combined_description: IBERIA
-  usda_description: IBERIA
+  edited_description: Iberia
+  combined_description: Iberia
+  usda_description: Iberia
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3103'
-  edited_description: GARUDA (INDONESIA)
-  combined_description: GARUDA (INDONESIA)
-  usda_description: GARUDA (INDONESIA)
+  edited_description: Garuda (Indonesia)
+  combined_description: Garuda (Indonesia)
+  usda_description: Garuda (Indonesia)
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3104'
@@ -726,9 +726,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3106'
-  edited_description: BRAATHENS S.A.F.E. (NORWAY)
-  combined_description: BRAATHENS S.A.F.E. (NORWAY)
-  usda_description: BRAATHENS S.A.F.E. (NORWAY)
+  edited_description: Braathens SAFE (Norway)
+  combined_description: Braathens SAFE (Norway)
+  usda_description: Braathens SAFE (Norway)
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3107'
@@ -750,21 +750,21 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3110'
-  edited_description: WINGS AIRWAYS
-  combined_description: WINGS AIRWAYS
-  usda_description: WINGS AIRWAYS
+  edited_description: Wings Airways
+  combined_description: Wings Airways
+  usda_description: Wings Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3111'
-  edited_description: BRITISH MIDLAND
-  combined_description: BRITISH MIDLAND
-  usda_description: BRITISH MIDLAND
+  edited_description: British Midland
+  combined_description: British Midland
+  usda_description: British Midland
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3112'
-  edited_description: WINDWARD ISLAND
-  combined_description: WINDWARD ISLAND
-  usda_description: WINDWARD ISLAND
+  edited_description: Windward Island
+  combined_description: Windward Island
+  usda_description: Windward Island
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3113'
@@ -792,15 +792,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3117'
-  edited_description: VIASA
-  combined_description: VIASA
-  usda_description: VIASA
+  edited_description: Viasa
+  combined_description: Viasa
+  usda_description: Viasa
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3118'
-  edited_description: VALLEY AIRLINES
-  combined_description: VALLEY AIRLINES
-  usda_description: VALLEY AIRLINES
+  edited_description: Valley Airlines
+  combined_description: Valley Airlines
+  usda_description: Valley Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3119'
@@ -840,21 +840,21 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3125'
-  edited_description: TAN
-  combined_description: TAN
-  usda_description: TAN
+  edited_description: TAN Airlines
+  combined_description: TAN Airlines
+  usda_description: TAN Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3126'
-  edited_description: TALAIR
-  combined_description: TALAIR
-  usda_description: TALAIR
+  edited_description: Talair
+  combined_description: Talair
+  usda_description: Talair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3127'
-  edited_description: TACA INTERNATIONAL
-  combined_description: TACA INTERNATIONAL
-  usda_description: TACA INTERNATIONAL
+  edited_description: TACA Airlines
+  combined_description: TACA Airlines
+  usda_description: TACA Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3128'
@@ -864,15 +864,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3129'
-  edited_description: SURINAM AIRWAYS
-  combined_description: SURINAM AIRWAYS
-  usda_description: SURINAM AIRWAYS
+  edited_description: Surinam Airways
+  combined_description: Surinam Airways
+  usda_description: Surinam Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3130'
-  edited_description: SUN WORLD INTERNATIONAL
-  combined_description: SUN WORLD INTERNATIONAL
-  usda_description: SUN WORLD INTERNATIONAL
+  edited_description: Sun World International
+  combined_description: Sun World International
+  usda_description: Sun World International
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3131'
@@ -888,9 +888,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3133'
-  edited_description: SUNBELT AIRLINES
-  combined_description: SUNBELT AIRLINES
-  usda_description: SUNBELT AIRLINES
+  edited_description: Sunbelt Airlines
+  combined_description: Sunbelt Airlines
+  usda_description: Sunbelt Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3134'
@@ -900,9 +900,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3135'
-  edited_description: SUDAN AIRWAYS
-  combined_description: SUDAN AIRWAYS
-  usda_description: SUDAN AIRWAYS
+  edited_description: Sudan Airways
+  combined_description: Sudan Airways
+  usda_description: Sudan Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3136'
@@ -912,15 +912,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3137'
-  edited_description: SINGLETON
-  combined_description: SINGLETON
-  usda_description: SINGLETON
+  edited_description: Singleton
+  combined_description: Singleton
+  usda_description: Singleton
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3138'
-  edited_description: SIMMONS AIRLINES
-  combined_description: SIMMONS AIRLINES
-  usda_description: SIMMONS AIRLINES
+  edited_description: Simmons Airlines
+  combined_description: Simmons Airlines
+  usda_description: Simmons Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3139'
@@ -948,27 +948,27 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3143'
-  edited_description: SCENIC AIRLINES
-  combined_description: SCENIC AIRLINES
-  usda_description: SCENIC AIRLINES
+  edited_description: Scenic Airlines
+  combined_description: Scenic Airlines
+  usda_description: Scenic Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3144'
-  edited_description: VIRGIN ATLANTIC
-  combined_description: VIRGIN ATLANTIC
-  usda_description: VIRGIN ATLANTIC
+  edited_description: Virgin Atlantic
+  combined_description: Virgin Atlantic
+  usda_description: Virgin Atlantic
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3145'
-  edited_description: SAN JUAN AIRLINES
-  combined_description: SAN JUAN AIRLINES
-  usda_description: SAN JUAN AIRLINES
+  edited_description: San Juan Airlines
+  combined_description: San Juan Airlines
+  usda_description: San Juan Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3146'
-  edited_description: LUXAIR
-  combined_description: LUXAIR
-  usda_description: LUXAIR
+  edited_description: Luxair
+  combined_description: Luxair
+  usda_description: Luxair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3147'
@@ -996,9 +996,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3151'
-  edited_description: AIR ZAIRE
-  combined_description: AIR ZAIRE
-  usda_description: AIR ZAIRE
+  edited_description: Air Zaire
+  combined_description: Air Zaire
+  usda_description: Air Zaire
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3152'
@@ -1014,9 +1014,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3154'
-  edited_description: PRINCEVILLE
-  combined_description: PRINCEVILLE
-  usda_description: PRINCEVILLE
+  edited_description: Princeville
+  combined_description: Princeville
+  usda_description: Princeville
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3155'
@@ -1056,9 +1056,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3161'
-  edited_description: ALL NIPPON AIRWAYS
-  combined_description: ALL NIPPON AIRWAYS
-  usda_description: ALL NIPPON AIRWAYS
+  edited_description: All Nippon Airways
+  combined_description: All Nippon Airways
+  usda_description: All Nippon Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3162'
@@ -1110,21 +1110,21 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3170'
-  edited_description: NOUNT COOK
-  combined_description: NOUNT COOK
-  usda_description: NOUNT COOK
+  edited_description: Nount Cook
+  combined_description: Nount Cook
+  usda_description: Nount Cook
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3171'
-  edited_description: CANADIAN AIRLINES INTERNATIONAL
-  combined_description: CANADIAN AIRLINES INTERNATIONAL
-  usda_description: CANADIAN AIRLINES INTERNATIONAL
+  edited_description: Canadian Airlines International
+  combined_description: Canadian Airlines International
+  usda_description: Canadian Airlines International
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3172'
-  edited_description: NATIONAIR
-  combined_description: NATIONAIR
-  usda_description: NATIONAIR
+  edited_description: Nationair
+  combined_description: Nationair
+  usda_description: Nationair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3173'
@@ -1146,9 +1146,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3176'
-  edited_description: METROFLIGHT AIRLINES
-  combined_description: METROFLIGHT AIRLINES
-  usda_description: METROFLIGHT AIRLINES
+  edited_description: Metroflight Airlines
+  combined_description: Metroflight Airlines
+  usda_description: Metroflight Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3177'
@@ -1158,9 +1158,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3178'
-  edited_description: MESA AIR
-  combined_description: MESA AIR
-  usda_description: MESA AIR
+  edited_description: Mesa Air
+  combined_description: Mesa Air
+  usda_description: Mesa Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3179'
@@ -1176,15 +1176,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3181'
-  edited_description: MALEV
-  combined_description: MALEV
-  usda_description: MALEV
+  edited_description: Malev Hungarian Airlines
+  combined_description: Malev Hungarian Airlines
+  usda_description: Malev Hungarian Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3182'
-  edited_description: LOT (POLAND)
-  combined_description: LOT (POLAND)
-  usda_description: LOT (POLAND)
+  edited_description: LOT Polish Airlines
+  combined_description: LOT Polish Airlines
+  usda_description: LOT Polish Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3183'
@@ -1200,21 +1200,21 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3185'
-  edited_description: LAV (VENEZUELA)
-  combined_description: LAV (VENEZUELA)
-  usda_description: LAV (VENEZUELA)
+  edited_description: LAV Airlines
+  combined_description: LAV Airlines
+  usda_description: LAV Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3186'
-  edited_description: LAP (PARAGUAY)
-  combined_description: LAP (PARAGUAY)
-  usda_description: LAP (PARAGUAY)
+  edited_description: LAP Airlines
+  combined_description: LAP Airlines
+  usda_description: LAP Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3187'
-  edited_description: LACSA (COSTA RICA)
-  combined_description: LACSA (COSTA RICA)
-  usda_description: LACSA (COSTA RICA)
+  edited_description: LACSA Airlines
+  combined_description: LACSA Airlines
+  usda_description: LACSA Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3188'
@@ -1230,27 +1230,27 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3190'
-  edited_description: JUGOSLAV AIR
-  combined_description: JUGOSLAV AIR
-  usda_description: JUGOSLAV AIR
+  edited_description: Jugoslav Air
+  combined_description: Jugoslav Air
+  usda_description: Jugoslav Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3191'
-  edited_description: ISLAND AIRLINES
-  combined_description: ISLAND AIRLINES
-  usda_description: ISLAND AIRLINES
+  edited_description: Island Airlines
+  combined_description: Island Airlines
+  usda_description: Island Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3192'
-  edited_description: IRAN AIR
-  combined_description: IRAN AIR
-  usda_description: IRAN AIR
+  edited_description: Iran Air
+  combined_description: Iran Air
+  usda_description: Iran Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3193'
-  edited_description: INDIAN AIRLINES
-  combined_description: INDIAN AIRLINES
-  usda_description: INDIAN AIRLINES
+  edited_description: Indian Airlines
+  combined_description: Indian Airlines
+  usda_description: Indian Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3194'
@@ -1266,15 +1266,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3196'
-  edited_description: HAWAIIAN AIR
-  combined_description: HAWAIIAN AIR
-  usda_description: HAWAIIAN AIR
+  edited_description: Hawaiian Air
+  combined_description: Hawaiian Air
+  usda_description: Hawaiian Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3197'
-  edited_description: HAVASU AIRLINES
-  combined_description: HAVASU AIRLINES
-  usda_description: HAVASU AIRLINES
+  edited_description: Havasu Airlines
+  combined_description: Havasu Airlines
+  usda_description: Havasu Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3198'
@@ -1290,9 +1290,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3200'
-  edited_description: FUYANA AIRWAYS
-  combined_description: FUYANA AIRWAYS
-  usda_description: FUYANA AIRWAYS
+  edited_description: Guyana Airways
+  combined_description: Guyana Airways
+  usda_description: Guyana Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3201'
@@ -1308,15 +1308,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3203'
-  edited_description: GOLDEN PACIFIC AIR
-  combined_description: GOLDEN PACIFIC AIR
-  usda_description: GOLDEN PACIFIC AIR
+  edited_description: Golden Pacific Airlines
+  combined_description: Golden Pacific Airlines
+  usda_description: Golden Pacific Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3204'
-  edited_description: FREEDOM AIR
-  combined_description: FREEDOM AIR
-  usda_description: FREEDOM AIR
+  edited_description: Freedom Air
+  combined_description: Freedom Air
+  usda_description: Freedom Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3205'
@@ -1362,9 +1362,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3212'
-  edited_description: DOMINICANA
-  combined_description: DOMINICANA
-  usda_description: DOMINICANA
+  edited_description: Dominicana Airlines
+  combined_description: Dominicana Airlines
+  usda_description: Dominicana Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3213'
@@ -1380,57 +1380,57 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3215'
-  edited_description: DAN AIR SERVICES
-  combined_description: DAN AIR SERVICES
-  usda_description: DAN AIR SERVICES
+  edited_description: Dan-Air
+  combined_description: Dan-Air
+  usda_description: Dan-Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3216'
-  edited_description: CUMBERLAND AIRLINES
-  combined_description: CUMBERLAND AIRLINES
-  usda_description: CUMBERLAND AIRLINES
+  edited_description: Cumberland Airlines
+  combined_description: Cumberland Airlines
+  usda_description: Cumberland Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3217'
-  edited_description: CSA
-  combined_description: CSA
-  usda_description: CSA
+  edited_description: CSA Czech Airlines
+  combined_description: CSA Czech Airlines
+  usda_description: CSA Czech Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3218'
-  edited_description: CROWN AIR
-  combined_description: CROWN AIR
-  usda_description: CROWN AIR
+  edited_description: Crown Air
+  combined_description: Crown Air
+  usda_description: Crown Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3219'
-  edited_description: COPA
-  combined_description: COPA
-  usda_description: COPA
+  edited_description: Copa Airlines
+  combined_description: Copa Airlines
+  usda_description: Copa Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3220'
-  edited_description: COMPANIA FAUCETT
-  combined_description: COMPANIA FAUCETT
-  usda_description: COMPANIA FAUCETT
+  edited_description: Faucett Peru
+  combined_description: Faucett Peru
+  usda_description: Faucett Peru
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3221'
-  edited_description: TRANSPORTES AEROS MILITARES ECCUATORANOS
-  combined_description: TRANSPORTES AEROS MILITARES ECCUATORANOS
-  usda_description: TRANSPORTES AEROS MILITARES ECCUATORANOS
+  edited_description: TAME Airlines
+  combined_description: TAME Airlines
+  usda_description: TAME Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3222'
-  edited_description: COMMAND AIRWAYS
-  combined_description: COMMAND AIRWAYS
-  usda_description: COMMAND AIRWAYS
+  edited_description: Command Airways
+  combined_description: Command Airways
+  usda_description: Command Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3223'
-  edited_description: COMAIR
-  combined_description: COMAIR
-  usda_description: COMAIR
+  edited_description: Comair
+  combined_description: Comair
+  usda_description: Comair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3224'
@@ -1458,15 +1458,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3228'
-  edited_description: CAYMAN AIRWAYS
-  combined_description: CAYMAN AIRWAYS
-  usda_description: CAYMAN AIRWAYS
+  edited_description: Cayman Airways
+  combined_description: Cayman Airways
+  usda_description: Cayman Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3229'
-  edited_description: SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS
-  combined_description: SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS
-  usda_description: SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS
+  edited_description: SAETA Airlines
+  combined_description: SAETA Airlines
+  usda_description: SAETA Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3230'
@@ -1476,9 +1476,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3231'
-  edited_description: SASHA SERVICIO AERO DE HONDURAS
-  combined_description: SASHA SERVICIO AERO DE HONDURAS
-  usda_description: SASHA SERVICIO AERO DE HONDURAS
+  edited_description: SAHSA Airlines
+  combined_description: SAHSA Airlines
+  usda_description: SAHSA Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3232'
@@ -1488,21 +1488,21 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3233'
-  edited_description: CAPITOL AIR
-  combined_description: CAPITOL AIR
-  usda_description: CAPITOL AIR
+  edited_description: Capitol Air
+  combined_description: Capitol Air
+  usda_description: Capitol Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3234'
-  edited_description: BWIA
-  combined_description: BWIA
-  usda_description: BWIA
+  edited_description: BWIA West Indies Airways
+  combined_description: BWIA West Indies Airways
+  usda_description: BWIA West Indies Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3235'
-  edited_description: BROKWAY AIR
-  combined_description: BROKWAY AIR
-  usda_description: BROKWAY AIR
+  edited_description: Brockway Air
+  combined_description: Brockway Air
+  usda_description: Brockway Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3236'
@@ -1518,39 +1518,39 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3238'
-  edited_description: BEMIDJI AIRLINES
-  combined_description: BEMIDJI AIRLINES
-  usda_description: BEMIDJI AIRLINES
+  edited_description: Bemidji Airlines
+  combined_description: Bemidji Airlines
+  usda_description: Bemidji Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3239'
-  edited_description: BAR HARBOR AIRLINES
-  combined_description: BAR HARBOR AIRLINES
-  usda_description: BAR HARBOR AIRLINES
+  edited_description: Bar Harbor Airlines
+  combined_description: Bar Harbor Airlines
+  usda_description: Bar Harbor Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3240'
-  edited_description: BAHAMASAIR
-  combined_description: BAHAMASAIR
-  usda_description: BAHAMASAIR
+  edited_description: Bahamasair
+  combined_description: Bahamasair
+  usda_description: Bahamasair
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3241'
-  edited_description: AVIATECA (GUATEMALA)
-  combined_description: AVIATECA (GUATEMALA)
-  usda_description: AVIATECA (GUATEMALA)
+  edited_description: Avianca Guatemala
+  combined_description: Avianca Guatemala
+  usda_description: Avianca Guatemala
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3242'
-  edited_description: AVENSA
-  combined_description: AVENSA
-  usda_description: AVENSA
+  edited_description: Avensa
+  combined_description: Avensa
+  usda_description: Avensa
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3243'
-  edited_description: AUSTRIAN AIR SERVICE
-  combined_description: AUSTRIAN AIR SERVICE
-  usda_description: AUSTRIAN AIR SERVICE
+  edited_description: Austrian Air Services
+  combined_description: Austrian Air Services
+  usda_description: Austrian Air Services
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3244'
@@ -1596,27 +1596,27 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3251'
-  edited_description: ALOHA AIRLINES
-  combined_description: ALOHA AIRLINES
-  usda_description: ALOHA AIRLINES
+  edited_description: Aloha Airlines
+  combined_description: Aloha Airlines
+  usda_description: Aloha Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3252'
-  edited_description: ALM
-  combined_description: ALM
-  usda_description: ALM
+  edited_description: ALM Airlines
+  combined_description: ALM Airlines
+  usda_description: ALM Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3253'
-  edited_description: AMERICA WEST
-  combined_description: AMERICA WEST
-  usda_description: AMERICA WEST
+  edited_description: America West Airlines
+  combined_description: merica West Airlines
+  usda_description: merica West Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3254'
-  edited_description: TRUMP AIRLINE
-  combined_description: TRUMP AIRLINE
-  usda_description: TRUMP AIRLINE
+  edited_description: Trump Airline
+  combined_description: Trump Airline
+  usda_description: Trump Airline
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3255'
@@ -1626,9 +1626,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3256'
-  edited_description: ALASKA AIRLINES
-  combined_description: ALASKA AIRLINES
-  usda_description: ALASKA AIRLINES
+  edited_description: Alaska Airlines
+  combined_description: Alaska Airlines
+  usda_description: Alaska Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3257'
@@ -1644,9 +1644,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3259'
-  edited_description: AMERICAN TRANS AIR
-  combined_description: AMERICAN TRANS AIR
-  usda_description: AMERICAN TRANS AIR
+  edited_description: American Trans Air
+  combined_description: American Trans Air
+  usda_description: American Trans Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3260'
@@ -1656,15 +1656,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3261'
-  edited_description: AIR CHINA
-  combined_description: AIR CHINA
-  usda_description: AIR CHINA
+  edited_description: Air China
+  combined_description: Air China
+  usda_description: Air China
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3262'
-  edited_description: RENO AIR, INC.
-  combined_description: RENO AIR, INC.
-  usda_description: RENO AIR, INC.
+  edited_description: Reno Air
+  combined_description: Reno Air
+  usda_description: Reno Air
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3263'
@@ -1686,15 +1686,15 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3266'
-  edited_description: AIR SEYCHELLES
-  combined_description: AIR SEYCHELLES
-  usda_description: AIR SEYCHELLES
+  edited_description: Air Seychelles
+  combined_description: Air Seychelles
+  usda_description: Air Seychelles
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3267'
-  edited_description: AIR PANAMA
-  combined_description: AIR PANAMA
-  usda_description: AIR PANAMA
+  edited_description: Air Panama
+  combined_description: Air Panama
+  usda_description: Air Panama
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3268'
@@ -1770,9 +1770,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3280'
-  edited_description: AIR JAMAICA
-  combined_description: AIR JAMAICA
-  usda_description: AIR JAMAICA
+  edited_description: Air Jamaica
+  combined_description: Air Jamaica
+  usda_description: Air Jamaica
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3281'
@@ -1782,9 +1782,9 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3282'
-  edited_description: AIR DJIBOUTI
-  combined_description: AIR DJIBOUTI
-  usda_description: AIR DJIBOUTI
+  edited_description: Air Djibouti
+  combined_description: Air Djibouti
+  usda_description: Air Djibouti
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3283'
@@ -1794,27 +1794,27 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3284'
-  edited_description: AERO VIRGIN ISLANDS
-  combined_description: AERO VIRGIN ISLANDS
-  usda_description: AERO VIRGIN ISLANDS
+  edited_description: Aero Virgin Islands
+  combined_description: Aero Virgin Islands
+  usda_description: Aero Virgin Islands
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3285'
-  edited_description: AERO PERU
-  combined_description: AERO PERU
-  usda_description: AERO PERU
+  edited_description: Aeroperu
+  combined_description: Aeroperu
+  usda_description: Aeroperu
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3286'
-  edited_description: AEROLINEAS NICARAGUENSIS
-  combined_description: AEROLINEAS NICARAGUENSIS
-  usda_description: AEROLINEAS NICARAGUENSIS
+  edited_description: Aerolineas Nicaraguenses
+  combined_description: Aerolineas Nicaraguenses
+  usda_description: Aerolineas Nicaraguenses
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3287'
-  edited_description: AERO COACH AVAIATION
-  combined_description: AERO COACH AVAIATION
-  usda_description: AERO COACH AVAIATION
+  edited_description: Aero Coach Airlines
+  combined_description: Aero Coach Airlines
+  usda_description: Aero Coach Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3288'
@@ -1836,33 +1836,33 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3291'
-  edited_description: ARIANA AFGHAN
-  combined_description: ARIANA AFGHAN
-  usda_description: ARIANA AFGHAN
+  edited_description: Ariana Afghan Airlines
+  combined_description: Ariana Afghan Airlines
+  usda_description: Ariana Afghan Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3292'
-  edited_description: CYPRUS AIRWAYS
-  combined_description: CYPRUS AIRWAYS
-  usda_description: CYPRUS AIRWAYS
+  edited_description: Cyprus Airways
+  combined_description: Cyprus Airways
+  usda_description: Cyprus Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3293'
-  edited_description: ECUATORIANA
-  combined_description: ECUATORIANA
-  usda_description: ECUATORIANA
+  edited_description: Ecuatoriana Airlines
+  combined_description: Ecuatoriana Airlines
+  usda_description: Ecuatoriana Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3294'
-  edited_description: ETHIOPIAN AIRLINES
-  combined_description: ETHIOPIAN AIRLINES
-  usda_description: ETHIOPIAN AIRLINES
+  edited_description: Ethiopian Airlines
+  combined_description: Ethiopian Airlines
+  usda_description: Ethiopian Airlines
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3295'
-  edited_description: KENYA AIRLINES
-  combined_description: KENYA AIRLINES
-  usda_description: KENYA AIRLINES
+  edited_description: Kenya Airways
+  combined_description: Kenya Airways
+  usda_description: Kenya Airways
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3296'
@@ -1878,21 +1878,21 @@
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3298'
-  edited_description: AIR MAURITIUS
-  combined_description: AIR MAURITIUS
-  usda_description: AIR MAURITIUS
+  edited_description: Air Mauritius
+  combined_description: Air Mauritius
+  usda_description: Air Mauritius
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3299'
-  edited_description: WIDERO’S FLYVESELSKAP
-  combined_description: WIDERO’S FLYVESELSKAP
-  usda_description: WIDERO’S FLYVESELSKAP
+  edited_description: Wideroe Airline
+  combined_description: Wideroe Airline
+  usda_description: Wideroe Airline
   irs_description: Airlines
   irs_reportable: 'Yes'
 - mcc: '3351'
-  edited_description: AFFILIATED AUTO RENTAL
-  combined_description: AFFILIATED AUTO RENTAL
-  usda_description: AFFILIATED AUTO RENTAL
+  edited_description: Affiliated Car Rental
+  combined_description: Affiliated Car Rental
+  usda_description: Affiliated Car Rental
   irs_description: Car Rental
   irs_reportable: 'Yes'
 - mcc: '3352'

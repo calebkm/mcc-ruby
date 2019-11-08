@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'mcc-ruby'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.date        = '2019-10-18'
   s.summary     = 'Merchant Category Codes (MCC) for Ruby'
   s.description = 'A simple Merchant Category Code (MCC) interface for your Ruby app.'
